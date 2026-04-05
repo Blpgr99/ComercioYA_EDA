@@ -19,7 +19,8 @@ Limpieza y transformación de datos
 Análisis univariado y bivariado
 Visualización de patrones clave
 Construcción de insights accionables orientados a negocio
-🛠️ Herramientas utilizadas 
+
+Herramientas utilizadas 
 
 Python 
 Pandas (manipulación de datos)
@@ -61,8 +62,8 @@ Proyecto de Inferencia Estadística (otro del curso)
 
 Contacto
 
-LinkedIn: (agrega tu link)
-Email: (agrega tu correo)
+LinkedIn: https://www.linkedin.com/in/martin-meza-soto-15a21a199/
+Email: mezamartin6@gmail.com
 GitHub: https://github.com/Blpgr99
 
 ## Requisitos
